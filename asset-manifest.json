@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0737b60.css",
+    "main.js": "/static/js/main.1709ab7f.js",
+    "static/js/787.4e75e51e.chunk.js": "/static/js/787.4e75e51e.chunk.js",
+    "static/media/banner4.jpg": "/static/media/banner4.d2346857fc47bc84fb37.jpg",
+    "static/media/delivery1.jpg": "/static/media/delivery1.cd8475b5e72d6e0e22c4.jpg",
+    "static/media/developer.png": "/static/media/developer.1c38dc53145632678079.png",
+    "static/media/bn.png": "/static/media/bn.bdf7c92bce1a9e1b057d.png",
+    "static/media/noOrder2.png": "/static/media/noOrder2.a282ce24a320e9a2dfee.png",
+    "static/media/dv.png": "/static/media/dv.8682100f3b2a3bc70749.png",
+    "static/media/error3.avif": "/static/media/error3.016d947c1955838b1c2a.avif",
+    "static/media/footerlogo.png": "/static/media/footerlogo.0b8c3e798970cd977087.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.a95bce5a7f5a93d95fe2.png",
+    "static/media/github.png": "/static/media/github.6f76d0e8ee16a7166861.png",
+    "static/media/img4.jpg": "/static/media/img4.2e3cf5f9f55f6671e042.jpg",
+    "static/media/linkedin.png": "/static/media/linkedin.330f9365052fb0f5c5cf.png",
+    "static/media/Logo.png": "/static/media/Logo.730e5f323977cb64e174.png",
+    "static/media/credit.jpg": "/static/media/credit.a8a5fa01f0e388e74e2a.jpg",
+    "index.html": "/index.html",
+    "main.c0737b60.css.map": "/static/css/main.c0737b60.css.map",
+    "main.1709ab7f.js.map": "/static/js/main.1709ab7f.js.map",
+    "787.4e75e51e.chunk.js.map": "/static/js/787.4e75e51e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0737b60.css",
+    "static/js/main.1709ab7f.js"
+  ]
+}
